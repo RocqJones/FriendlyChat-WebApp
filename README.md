@@ -10,4 +10,4 @@ This repository contains starter project for [Firebase: Build a Real Time Web Ch
 * Firebase Performance Monitoring
 * Firebase Hosting
 
-<a href="url"><img src="https://github.com/RocqJones/FriendlyChat-WebApp/blob/master/screenshots/Screenshot1.png" height="250" width="100%" ></a>
+<a href="url"><img src="https://github.com/RocqJones/FriendlyChat-WebApp/blob/master/screenshots/Screenshot1.png" height="450" width="100%" ></a>
